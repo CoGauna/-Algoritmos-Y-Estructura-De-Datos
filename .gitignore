@@ -1,0 +1,16 @@
+# Archivos de compilación de C++
+*.o
+*.out
+*.exe
+
+# Carpetas de compilación
+build/
+bin/
+
+# Configuraciones de editores
+.vscode/
+
+# Archivos temporales
+*.log
+*.tmp
+*~
